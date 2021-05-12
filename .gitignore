@@ -47,3 +47,4 @@ Thumbs.db
 
 #ignore below
 homepage/
+src/app/app.component.html
